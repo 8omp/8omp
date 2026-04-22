@@ -9,7 +9,7 @@
 ### Tech Stack
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,kali,linux,docker,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=c,python,bash,kali,linux,git,github,vscode" />
   </a>
 </div>
 
