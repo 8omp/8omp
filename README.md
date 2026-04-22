@@ -18,7 +18,7 @@
 ## 🏆 Achievements
 
 * 🚩 **picoCTF 2026** - Ranked **52nd in the world** (Team: **RiST**)
-* 🛡️ Actively learning penetration testing techniques.
+* 🛡️ Actively learning penetration testing techniques and network.
   
 ## 🛠 Tech Stack
 
