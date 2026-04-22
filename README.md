@@ -11,12 +11,11 @@
 * 🎓 Computer Science student focusing on **Offensive Security** and **Low-level programming**.
 * 💻 Currently developing a custom port scanner (SYN scan / Raw Socket) and a Chip-8 emulator in **C**.
 * 🏴‍☠️ Passionate about **CTF (Pwn)** and **Boot2Root** challenges.
-* 🛠️ Main environment: **Kali Linux** & **Debian (WSL)**.
+* 🛠️ Main environment: **Kali Linux**.
 
 ## 🏆 Achievements
 
-* 🐳 Created and published an original Boot2Root CTF challenge on Docker Hub.
-* 🗣️ English proficiency: Eiken Grade 2, TOEIC 650.
+* 🚩 **picoCTF 2026** - Ranked **52nd in the world** (Team: **RiST**)
 * 🛡️ Actively learning penetration testing techniques.
   
 ## 🛠 Tech Stack
@@ -30,11 +29,9 @@
 ## 📊 GitHub Stats
 
 <div align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=8omp&show_icons=true&theme=hacker" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8omp&layout=compact&theme=hacker" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=8omp&show_icons=true&theme=hacker&v=1" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8omp&layout=compact&theme=hacker&v=1" />
 </div>
-
-<br>
 
 <div align="left">
   <img src="https://streak-stats.demolab.com/?user=8omp&theme=hacker" />
