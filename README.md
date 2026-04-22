@@ -3,11 +3,11 @@
 **GitHub stats and Top-langs**
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=8omp&show_icons=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8omp&layout=compact&theme=tokyonight" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=8omp&theme=radical" />
 </div>
 </div>
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=8omp&theme=radical" />
+  <img "src="https://github-readme-stats.vercel.app/api/top-langs/?username=8omp&layout=compact&theme=tokyonight" />
 </div>
 <div align="center">
   <a href="https://skillicons.dev">
