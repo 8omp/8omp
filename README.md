@@ -1,4 +1,5 @@
 <h1 align="center">Hi there, I'm 8omp <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyj/giphy.gif" width="32"></h1>
+
 ## 👨‍💻 About Me
 
 * 🎓 Computer Science student focusing on **Offensive Security** and **Low-level programming**.
