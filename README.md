@@ -1,11 +1,4 @@
 <h1 align="center">Hi there, I'm 8omp <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyj/giphy.gif" width="32"></h1>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=CS+Student;Interested+in+Offensive+Security;Focusing+on+Pwn+and+Low-level;C+%7C+Python+%7C+Kali+Linux" alt="Typing SVG" />
-</div>
-
-<br>
-
 ## 👨‍💻 About Me
 
 * 🎓 Computer Science student focusing on **Offensive Security** and **Low-level programming**.
