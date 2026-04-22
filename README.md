@@ -25,8 +25,8 @@
 ## 📊 GitHub Stats
 
 <div align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=8omp&show_icons=true&theme=hacker&v=1" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8omp&layout=compact&theme=hacker&v=1" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=8omp&show_icons=true&theme=tokyonight&v=1" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8omp&layout=compact&theme=tokyonight&v=1" />
 </div>
 
 <div align="left">
