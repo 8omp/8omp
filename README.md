@@ -7,7 +7,7 @@
 </div>
 </div>
 <div align="center">
-  <img "src="https://github-readme-stats.vercel.app/api/top-langs/?username=8omp&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=8omp&layout=compact&theme=tokyonight" />
 </div>
 <div align="center">
   <a href="https://skillicons.dev">
