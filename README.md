@@ -4,7 +4,7 @@
 
 * 🎓 Computer Science student focusing on **Offensive Security** and **Low-level programming**.
 * 💻 Currently developing a custom port scanner (SYN scan / Raw Socket) and a Chip-8 emulator in **C**.
-* 💻 Also developing a recon automator in **Bash** and **Python**.
+* 💻 Also developing a recon automator **"Recon8"** in **Bash** and **Python**.
 * 💻 I will develop a **Japanese Common Password Genretor(JCPG)** soon.
 * 🏴‍☠️ Passionate about **CTF (Pwn)** and **Boot2Root** challenges.
 * 🛠️ Main environment: **Kali Linux**.
