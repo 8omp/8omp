@@ -39,5 +39,5 @@
 </div>
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com/?user=8omp&theme=hacker" />
+  <img src="https://streak-stats.demolab.com/?user=8omp&theme=tokyonight" />
 </div>
