@@ -18,7 +18,7 @@
 
 <div align="left">
   <a href="https://profile.hackthebox.com/profile/019cc133-65f2-700e-8b74-65c260359806">
-    <img src="https://profile.hackthebox.com/profile/019cc133-65f2-700e-8b74-65c260359806" alt="Hack The Box Badge" />
+    <img src="https://profile.hackthebox.com/?tab=badges" alt="Hack The Box Badge" />
   </a>
   <a href="https://tryhackme.com/p/8omp">
     <img src="https://tryhackme-badges.s3.amazonaws.com/8omp.png" alt="TryHackMe Badge" />
