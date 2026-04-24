@@ -8,20 +8,18 @@
 * 💻 I will develop a **Japanese Common Password Genretor(JCPG)** soon.
 * 🏴‍☠️ Passionate about **CTF (Pwn)** and **Boot2Root** challenges.
 * 🛠️ Main environment: **Kali Linux**.
-
+* 
 ## 🏆 Achievements
 
 * 🚩 **picoCTF 2026** - Ranked **52nd in the world** (Team: **RiST**)
 * 📝 Published writeups and technical notes on **[Qiita](https://qiita.com/8omp)** and **[Zenn](https://zenn.dev/8omp)**
 
-<br>
-
 <div align="left">
   <a href="https://profile.hackthebox.com/profile/019cc133-65f2-700e-8b74-65c260359806">
-    <img src="https://profile.hackthebox.com/?tab=badges" alt="Hack The Box Badge" />
+    <img src="https://img.shields.io/badge/Hack%20The%20Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Hack The Box" />
   </a>
   <a href="https://tryhackme.com/p/8omp">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/8omp.png" alt="TryHackMe Badge" />
+    <img src="https://img.shields.io/badge/TryHackMe-111927?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
   </a>
 </div>
   
