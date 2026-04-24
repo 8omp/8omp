@@ -12,6 +12,18 @@
 ## 🏆 Achievements
 
 * 🚩 **picoCTF 2026** - Ranked **52nd in the world** (Team: **RiST**)
+* 📝 Published writeups and technical notes on **[Qiita](https://qiita.com/8omp)** and **[Zenn](https://zenn.dev/8omp)**
+
+<br>
+
+<div align="left">
+  <a href="https://profile.hackthebox.com/profile/019cc133-65f2-700e-8b74-65c260359806">
+    <img src="https://profile.hackthebox.com/profile/019cc133-65f2-700e-8b74-65c260359806" alt="Hack The Box Badge" />
+  </a>
+  <a href="https://tryhackme.com/p/8omp">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/8omp.png" alt="TryHackMe Badge" />
+  </a>
+</div>
   
 ## 🛠 Tech Stack
 
