@@ -14,6 +14,8 @@
 * 🚩 **picoCTF 2026** - Ranked **52nd in the world** (Team: **RiST**)
 * 📝 Published writeups and technical notes on **[Qiita](https://qiita.com/8omp)** and **[Zenn](https://zenn.dev/8omp)**
 
+<img width="400" alt="5pectre_H7CTF_Certificate" src="https://github.com/user-attachments/assets/8f77765c-3be7-4466-876b-e240c9d94f2b" />
+
 <div align="left">
   <a href="https://profile.hackthebox.com/profile/019cc133-65f2-700e-8b74-65c260359806">
     <img src="https://img.shields.io/badge/Hack%20The%20Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Hack The Box" />
