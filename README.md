@@ -8,7 +8,7 @@
 * 💻 I will develop a **Japanese Common Password Genretor(JCPG)** soon.
 * 🏴‍☠️ Passionate about **CTF (Pwn)** and **Boot2Root** challenges.
 * 🛠️ Main environment: **Kali Linux**.
-* 
+  
 ## 🏆 Achievements
 
 * 🚩 **picoCTF 2026** - Ranked **52nd in the world** (Team: **RiST**)
