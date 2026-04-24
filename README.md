@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm 8omp <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyj/giphy.gif" width="32"></h1>
+<h1 align="center">Hi there, I'm 8omp <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 ## 👨‍💻 About Me
 
