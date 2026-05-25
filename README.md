@@ -36,10 +36,10 @@
 ## 📊 GitHub Stats
 
 <div align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=8omp&show_icons=true&theme=dark&v=1" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8omp&layout=compact&theme=dark&v=1" />
+  <img src="https://streak-stats.demolab.com/?user=8omp" />
 </div>
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com/?user=8omp&theme=dark" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=8omp&show_icons=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8omp&layout=compact" />
 </div>
