@@ -7,7 +7,7 @@
 * 💻 Also developing a recon automator **"Recon8"** in **Bash** and **Python**.
 * 💻 I will develop a **Japanese Common Password Genretor(JCPG)** soon.
 * 🏴‍☠️ Passionate about **CTF (Pwn)** and **Boot2Root** challenges.
-* 🛠️ Main environment: **Kali Linux**.
+* 🛠️ Main environment: **Arch Linux**.
   
 ## 🏆 Achievements
 
