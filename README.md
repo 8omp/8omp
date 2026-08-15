@@ -7,7 +7,7 @@
 * 💻 Also developing a recon automator **"Recon8"** in **Bash** and **Python**.
 * 💻 I will develop a **Japanese Common Password Genretor(JCPG)** soon.
 * 🏴‍☠️ Passionate about **CTF (Pwn)** and **Boot2Root** challenges.
-* 🛠️ Main environment: **Arch Linux**.
+* 🛠️ Main environment: **WSL2 Ubuntu**.
   
 ## 🏆 Achievements
 
@@ -29,7 +29,7 @@
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,bash,python,kali,linux,git,github" />
+    <img src="https://skillicons.dev/icons?i=c,bash,python,linux,git,github" />
   </a>
 </div>
 
