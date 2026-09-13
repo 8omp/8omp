@@ -5,7 +5,7 @@
 * 🎓 Computer Science student focusing on **Offensive Security** and **Low-level programming**.
 * 💻✅ developed a Chip-8 emulator in C.
 * 💻✅ developed a port scanner in C.
-* 💻✅ developed a SYN packet by Raw Socket in C.(evolve to a port scanner in some day.)
+* 💻✅ developed a SYN packet by Raw Socket in C. (evolve to a port scanner in some day.)
 * 💻 Also developing a recon automator **"Recon8"** in **Bash** and **Python**.
 * 💻 I will develop a **Japanese Common Password Genretor(JCPG)** soon.
 * 🏴‍☠️ Passionate about **CTF (Pwn)** and **Boot2Root** challenges.
