@@ -3,7 +3,9 @@
 ## 👨‍💻 About Me
 
 * 🎓 Computer Science student focusing on **Offensive Security** and **Low-level programming**.
-* 💻 Currently developing a custom port scanner (SYN scan / Raw Socket) and a Chip-8 emulator in **C**.
+* 💻✅ developed a Chip-8 emulator in C.
+* 💻✅ developed a port scanner in C.
+* 💻✅ developed a SYN packet by Raw Socket in C.(evolve to a port scanner in some day.)
 * 💻 Also developing a recon automator **"Recon8"** in **Bash** and **Python**.
 * 💻 I will develop a **Japanese Common Password Genretor(JCPG)** soon.
 * 🏴‍☠️ Passionate about **CTF (Pwn)** and **Boot2Root** challenges.
@@ -13,8 +15,6 @@
 
 * 🚩 **picoCTF 2026** - Ranked **52nd in the world** (Team: **RiST**)
 * 📝 Published writeups and technical notes on **[Qiita](https://qiita.com/8omp)** and **[Zenn](https://zenn.dev/8omp)**
-
-<img width="400" alt="5pectre_H7CTF_Certificate" src="https://github.com/user-attachments/assets/8f77765c-3be7-4466-876b-e240c9d94f2b" />
 
 <div align="left">
   <a href="https://profile.hackthebox.com/profile/019cc133-65f2-700e-8b74-65c260359806">
