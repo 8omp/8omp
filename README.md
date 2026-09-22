@@ -36,7 +36,7 @@
 ## 📊 GitHub Stats
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com/?user=8omp" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=8omp&theme=oceanic-next" alt="GitHub Streak" /></a>
 </div>
 
 <div align="left">
