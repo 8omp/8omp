@@ -40,6 +40,8 @@
 </div>
 
 <div align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=8omp&show_icons=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8omp&layout=compact" />
+
+<img src="https://github-stats-extended-frontend-ma16.vercel.app/api?username=8omp&count_private=false&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4f98a3&icon_color=4f98a3&text_color=c9d1d9" width="48%" />
+<img src="https://github-stats-extended-frontend-ma16.vercel.app/api/top-langs/?username=8omp&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4f98a3&text_color=c9d1d9" width="40%" />
+
 </div>
