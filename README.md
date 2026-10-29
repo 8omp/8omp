@@ -15,6 +15,7 @@
 
 * 🚩 **picoCTF 2026** - Ranked **52nd in the world** (Team: **RiST**)
 * 📝 Published writeups and technical notes on **[Qiita](https://qiita.com/8omp)** and **[Zenn](https://zenn.dev/8omp)**
+* **[My website](https://8omp.github.io/)**
 
 <div align="left">
   <a href="https://profile.hackthebox.com/profile/019cc133-65f2-700e-8b74-65c260359806">
